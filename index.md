@@ -1,7 +1,6 @@
 ---
 title: Referencias
-lang: es
-url: /ref/
+page.lang: es-es
 ---
 
 # Referencias de accesibilidad
