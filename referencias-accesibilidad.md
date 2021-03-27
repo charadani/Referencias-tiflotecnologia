@@ -1,3 +1,9 @@
+---
+title: Referencias
+lang: es
+url: /ref/
+---
+
 # Referencias de accesibilidad
 
 ## Páginas de accesibilidad 
