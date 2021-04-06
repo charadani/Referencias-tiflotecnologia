@@ -9,6 +9,7 @@ page.lang: es-es
 
 * [Understanding WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/)
 
+Utiliza el siguiente enlace para ir a la página de [Test de accesibilidad](https://www.thomann.de/es/dbx_286_s.htm?sid=a95f44678b2125f85210b654ab10a77b)
 ## Páginas de accesibilidad 
 
 Páginas de accesibilidad de las compañías más relevantes.
