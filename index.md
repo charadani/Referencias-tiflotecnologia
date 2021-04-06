@@ -5,6 +5,10 @@ page.lang: es-es
 
 # Referencias de accesibilidad
 
+## Documentos para entender las WCAG
+
+* [Understanding WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/)
+
 ## Páginas de accesibilidad 
 
 Páginas de accesibilidad de las compañías más relevantes.
